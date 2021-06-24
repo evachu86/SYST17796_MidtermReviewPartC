@@ -1,0 +1,13 @@
+Main path:
+1.	The user starts the UnoOnline program.
+2.	The user is asked to input the user’s name and password.
+3.	The program validates the input password.
+4.	The user’s password passes the validation.
+5.	The user is added to the game.
+
+Alternate path:
+1.	The user starts the UnoOnline program.
+2.	The user is asked to input the user’s name and password.
+3.	The program validates the input password.
+4.	The user’s password doesn’t pass the validation.
+5.	The user is asked to input the password again.
